@@ -22,6 +22,8 @@ I'm glad you're joining me on this journey😉
 
 
 
+
 >
 >
-> "Programming is the art of turning ideas into reality">
+>
+> "Programming is the art of turning ideas into reality"
