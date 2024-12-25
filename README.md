@@ -20,15 +20,6 @@ I'm glad you're joining me on this journey😉
 </p>
 
 
-
-
->
->
->
-> "Programming is the art of turning ideas into reality"
-
-
-
 ## 🚀 Some Tools I Have Used and Learned
 
 <p align="center">
@@ -52,11 +43,8 @@ I'm glad you're joining me on this journey😉
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alis4deghi-code&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
-
-## 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alis4deghi-code&theme=radical)
-
+## 🔥 Streak Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alis4deghi-code&theme=dark" alt="alis4deghi-code" /></p>
 
 <picture>
   <source
@@ -73,3 +61,4 @@ I'm glad you're joining me on this journey😉
   />
 </picture>
 
+> "Programming is the art of turning ideas into reality"
