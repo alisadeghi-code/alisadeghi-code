@@ -16,10 +16,11 @@
 </ul>
 
 <p align="center" style="font-size: 16px; color: #4caf50; line-height: 1.5;">
-I'm just starting out and have a lot to learn. I'll change my mind when there's nothing left to learn.<br>
+I'm just starting out and have a lot to learn.<br>
 I'm glad you're joining me on this journey😉
 </p>
 
-<div style="border: 2px solid #4CAF50; padding: 20px; margin: 20px; font-family: Arial, sans-serif; font-size: 18px; text-align: center; background-color: #f4f4f4; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  "Programming is the art of turning ideas into reality."
-</div>
+
+
+
+> "Programming is the art of turning ideas into reality"
