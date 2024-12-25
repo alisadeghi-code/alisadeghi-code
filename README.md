@@ -15,8 +15,10 @@
 </ul>
 
 <p align="center" style="font-size: 16px; color: #4caf50; line-height: 1.5;">
-I'm just starting out and have a lot to learn.<br>
-I'm glad you're joining me on this journey😉
+"Passionate about turning ideas into live code! Programming isn't just a job for me;<br>
+ it's a journey into the endless world of creativity and innovation.<br>
+ Skilled in C# and ASP.NET, with a deep love for designing smart and efficient systems.<br>
+ Every line of code I write is a step toward building a better world. 🚀💻✨"<br>
 </p>
 
 
