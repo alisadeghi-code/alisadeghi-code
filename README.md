@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/alis4deghi-code/alis4deghi-code/blob/main/Header/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Alt Text](https://github.com/alisadeghi-code/alisadeghi-code/blob/main/Header/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
  <h1 align="left" style="color: #6f42c1; font-size: 24px;"> Hi there 👋</h1>
 <h2 align="center" style="color: #6f42c1; font-size: 24px;">🚀 About me</h2>
@@ -6,7 +6,7 @@
 <ul>
  <li style="color: #f39c12;">🌟 <strong>My name:</strong> Ali sadeghi</li>
  <li style="color: #f39c12;">🌟 <strong> current job:</strong> 💻 Programmer </li>
-  <li style="color: #f39c12;">🌟 <strong> Located in:</strong> 🌍 iran,najafabad</li>
+  <li style="color: #f39c12;">🌟 <strong> Located in:</strong> 🌍 isfahan,iran</li>
   <li style="color: #f39c12;">🌟 <strong> Company:</strong> 🏢 safatec </li>
   <li style="color: #3498db;">🌟 <strong>Fields of Interest:</strong>   🌐 Web Development,🎮 Game Development </li>
   <li style="color: #e74c3c;">🌟 <strong>Experience:</strong> 💻1 Year</li>
@@ -34,17 +34,17 @@ I'm glad you're joining me on this journey😉
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alis4deghi-code&layout=compact&langs_count=6&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisadeghi-code&layout=compact&langs_count=6&theme=radical)
 
 ---
 
 ## 🌟 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alis4deghi-code&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisadeghi-code&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 ## 🔥 Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alis4deghi-code&theme=dark" alt="alis4deghi-code" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisadeghi-code&theme=dark" alt="alisadeghi-code" /></p>
 
 <picture>
   <source
