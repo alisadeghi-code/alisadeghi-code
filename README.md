@@ -6,7 +6,6 @@
 <ul>
  <li style="color: #f39c12;">🌟 <strong>My name:</strong> Ali sadeghi</li>
  <li style="color: #f39c12;">🌟 <strong> current job:</strong> 💻 Programmer </li>
-  <li style="color: #f39c12;">🌟 <strong> Located in:</strong> 🌍 isfahan,iran</li>
   <li style="color: #f39c12;">🌟 <strong> Company:</strong> 🏢 safatec </li>
   <li style="color: #3498db;">🌟 <strong>Fields of Interest:</strong>   🌐 Web Development,🎮 Game Development </li>
   <li style="color: #e74c3c;">🌟 <strong>Experience:</strong> 💻1 Year</li>
