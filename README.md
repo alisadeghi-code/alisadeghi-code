@@ -8,7 +8,6 @@
  <li style="color: #f39c12;">🌟 <strong> current job:</strong> 💻 Programmer </li>
   <li style="color: #f39c12;">🌟 <strong> Located in:</strong> 🌍 iran,najafabad</li>
   <li style="color: #f39c12;">🌟 <strong> Company:</strong> 🏢 safatec </li>
-  <li style="color: #f39c12;">🌟 <strong>Programming Languages:</strong> 🟦 C#,🌐 Html,🎨 Css,⚡️ JavaScript</li>
   <li style="color: #3498db;">🌟 <strong>Fields of Interest:</strong>   🌐 Web Development,🎮 Game Development </li>
   <li style="color: #e74c3c;">🌟 <strong>Experience:</strong> 💻1 Year</li>
   <li style="color: #27ae60;">🌟 <strong>2025 Goals:</strong>📈 Create 25+ Projects and learn advanced skills </li>
@@ -27,3 +26,16 @@ I'm glad you're joining me on this journey😉
 >
 >
 > "Programming is the art of turning ideas into reality"
+
+
+
+## 🚀 Some Tools I Have Used and Learned
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VSCode" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" alt="C#" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="JavaScript" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" height="40"/>
+ <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" alt="VS" height="40"/>
+</p>
