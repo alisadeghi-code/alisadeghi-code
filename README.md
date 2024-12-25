@@ -39,3 +39,20 @@ I'm glad you're joining me on this journey😉
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" height="40"/>
  <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" alt="VS" height="40"/>
 </p>
+
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alis4deghi-code&layout=compact&langs_count=6&theme=radical)
+
+---
+
+## 🌟 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alis4deghi-code&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+## 🏆 GitHub Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alis4deghi-code&theme=radical)
