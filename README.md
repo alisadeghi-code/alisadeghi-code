@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" alt="VSCode" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" alt="C#" height="40"/>
-  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="JavaScript" height="40"/>
+  <img src="https://icons8.com/icon/108784/javascript" alt="JavaScript" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML" height="40"/>
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="css" height="40"/>
  <img src="https://img.icons8.com/?size=100&id=ezj3zaVtImPg&format=png&color=000000" alt="VS" height="40"/>
