@@ -43,7 +43,7 @@
 ## 🌟 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisadeghi-code&show_icons=true&count_private=true&hide=prs&theme=radical)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisadeghi-code&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%; margin-top: 10px;" />
+ 
 
 ---
 ## 🔥 Streak Stats
